@@ -5,7 +5,8 @@ An Rdio app that will download all your favorites to your mobile device
 ## OSX/Linux
 - cd projects
 - git clone git@github.com:bcokert/RdioMan.git
-- sudo pip install oauth2
+- pip install oauth2
+-- sudo pip install oauth2 # if you don't like python, this'll work without a virutal env
 
 ## Windows
 - TBD
